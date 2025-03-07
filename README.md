@@ -20,9 +20,13 @@ python nome_do_arquivo.py
 # Escolha uma opção no menu:
 
 1: Adicionar tarefa
+
 2: Remover tarefa
+
 3: Completar tarefa
+
 4: Listar tarefas
+
 5: Sair
 
 # Estrutura dos Arquivos
