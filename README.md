@@ -18,7 +18,7 @@ Este é um gerenciador de tarefas simples baseado em Python que armazena as tare
 
  Como Usar
 
- Execute o script:
+ **Execute o script:**
 
 python nome_do_arquivo.py
 
