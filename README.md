@@ -32,6 +32,7 @@ python nome_do_arquivo.py
 # Estrutura dos Arquivos
 
 /projeto-todo-list/
+
 │── tasks.json  # Armazena as tarefas
 
 │── todo_list.py  # Código principal
