@@ -16,6 +16,7 @@ Este é um gerenciador de tarefas simples baseado em Python que armazena as tare
 
  Armazenamento automático em tasks.json
 
+
  Como Usar
 
  **Execute o script:**
