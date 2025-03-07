@@ -5,10 +5,15 @@ Uma lista para anotar seus afazeres durante o dia
 Este é um gerenciador de tarefas simples baseado em Python que armazena as tarefas em um arquivo JSON.
 
  Funcionalidades
+
  Adicionar tarefas
+ 
  Remover tarefas
+ 
  Marcar tarefas como concluídas
+ 
  Listar tarefas pendentes e concluídas
+
  Armazenamento automático em tasks.json
 
  Como Usar
