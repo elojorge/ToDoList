@@ -33,5 +33,7 @@ python nome_do_arquivo.py
 
 /projeto-todo-list/
 │── tasks.json  # Armazena as tarefas
+
 │── todo_list.py  # Código principal
+
 │── README.md  # Documentação
